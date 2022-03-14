@@ -17,12 +17,9 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+
+linkedin: "https://www.linkedin.com/in/laurane-marco-5a0953183"
+
 
 highlighter: rouge
 markdown: kramdown
