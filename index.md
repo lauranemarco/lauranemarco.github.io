@@ -26,4 +26,5 @@ In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal p
 ### Contact me 
 ✉️Email me at: 
 email: laurane.marco at epfl.ch 
+
 📍Visit me in INF239 on the EPFL campus.  
