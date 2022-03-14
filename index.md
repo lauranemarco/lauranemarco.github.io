@@ -21,7 +21,7 @@ I went on with another **Master in Mathematics and Computer Science** at the **U
 ### What you can find here 
 In [Projects](https://lauranemarco.github.io/projects/), you can find my past and current research projects. 
 
-In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts on topics I am interested in. This is more aimed at a general audience. 
+In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts on my research as well as topics I am interested in. This is more aimed at a general audience. 
 
 ### Contact me 
 ✉️Email me at: name.surname at epfl.ch
