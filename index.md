@@ -18,6 +18,10 @@ I completed a **Bachelor in Mathematics** at the **University of Geneva** (2016-
 I then obtained a **MASt in Pure Mathematics** at the **University of Cambridge** (2019-2020), more commonly known as Part III of the Mathematical Tripos, specializing in Number Theory. 
 I went on with another **Master in Mathematics and Computer Science** at the **University of Geneva** (2020-2021), with a focus on cryptography and security.
 
+### What you can find here 
+In [Projects](https://lauranemarco.github.io/projects/), you can find my past and current research projects. 
+In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts on topics I am interested in. This is more aimed at a general audience. 
+
 ### Contact me 
 Email me at: name.surname at epfl.ch
 Visit me in INF239 on the EPFL campus.  
