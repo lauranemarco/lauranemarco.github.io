@@ -9,12 +9,12 @@ published: true
 
 [Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
 
-##About me 
+### About me 
 I am currently a 1st year PhD student at EPFL, Lausanne, Switzerland, currently under the EDIC fellowship. 
 I am interested in **post quantum cryptography** and **digital signatures**. 
 I am currently working in the LASEC lab under the supervision of Pr. Serge Vaudenay. 
 
-##Previously
+## Previously
 
 I completed a Bachelor in Mathematics at the Univeristy of Geneva (2016-2019, with an exchange semester at the University of Toronto during my 3rd year.
 I then obtained a MASt in Pure Mathematics at the University of Cambridge (2019-2020), more commonly know as Part III of the Mathematical Tripos, specializing in Number Theory. 
