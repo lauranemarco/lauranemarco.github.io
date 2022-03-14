@@ -5,7 +5,7 @@ description: PhD Student | EPFL
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: laurane.marco at epfl.ch 
 
 
 highlighter: rouge
