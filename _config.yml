@@ -5,7 +5,7 @@ description: PhD Student | EPFL
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: laurane.marco at epfl.ch 
+
 
 
 highlighter: rouge
@@ -17,7 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-
+email: laurane.marco at epfl.ch 
 linkedin: "https://www.linkedin.com/in/laurane-marco-5a0953183"
 
 
