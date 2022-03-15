@@ -24,6 +24,6 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts about my research and topics I am interested in. This is more aimed at a general audience. 
 
 ### Contact me 
-✉️Email me at: laurane.marco at epfl.ch 
+✉️Email me at: laurane.marco@epfl.ch 
 
 📍Visit me in INF239 on the EPFL campus.  
