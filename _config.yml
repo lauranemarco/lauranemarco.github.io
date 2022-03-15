@@ -17,7 +17,7 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-email: laurane.marco at epfl.ch 
+email: laurane.marco@epfl.ch 
 linkedin: "https://www.linkedin.com/in/laurane-marco-5a0953183"
 
 
