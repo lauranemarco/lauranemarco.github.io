@@ -5,7 +5,7 @@ title:  Making Classical Signatures Post-Quantum - The Blog Post
 
 ### Disclaimer
 
-This post is still **under construction**. Furthermore, it is aimed at a general audience. If you want to hear about the technical details, go see the associated project [https://lauranemarco.github.io/projects/1_project/]. 
+This post is still **under construction**. Furthermore, it is aimed at a general audience. If you want to hear about the technical details, go see the associated [project](https://lauranemarco.github.io/projects/1_project/). 
 
 
 ###  Bitcoins, quantum computers and digital signatures
