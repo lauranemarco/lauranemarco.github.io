@@ -3,16 +3,14 @@ layout: post
 title:  Making Classical Signatures Post-Quantum - The Blog Post
 ---
 
-### Disclaimer
-
-This post is still **under construction**. Furthermore, it is aimed at a general audience. If you want to hear about the technical details, go see the associated [project](https://lauranemarco.github.io/projects/1_project/). 
+This post is still **under construction**. Furthermore, it is aimed at a general audience. If you want to hear about the technical details, go see the associated [project](https://lauranemarco.github.io/projects/1_project/). Any feedback is welcome. 
 
 
 ###  Bitcoins, quantum computers and digital signatures
 
 Everyone by now has heard of cryptocurrencies. They have risen as a non-negligible part of the financial markets, and become somewhat of a hot topic across several fields. But what interests us here isn't to discuss whether you should invest or not in cryptocurrencies. 
 What interests us is to have a closer look at how they work. We will in particular focus on Bitcoin, because the way the transactions are made is of particular interest to us. 
-When you are a Bitcoin user, you are in possessions of a key pair, made of a public and private key. Your private key will be used by yourself to sign transactions when you want to transfer bitcoins to another account. Your public key will be used to verify the validity of the signature associated to each transactions and will also serve as an address for user who want to send you funds. As indicated by its name, your public key should be publicly available to anyone. Actually, when a user first creates their account only the *hash*[^1] of their public key is published and not the public key itself. This hashed public key is what we call a user address. You might wonder, why don't we publish the public key directly, if it is meant to be public anyways ? 
+When you are a Bitcoin user, you are in possession of a key pair, made of a public and private key. Your private key will be used by yourself to sign transactions when you want to transfer bitcoins to another account. Your public key will be used to verify the validity of the signature associated to each transactions and will also serve as an address for user who want to send you funds. As indicated by its name, your public key should be publicly available to anyone. Actually, when a user first creates their account only the *hash*[^1] of their public key is published and not the public key itself. This hashed public key is what we call a user address. You might wonder, why don't we publish the public key directly, if it is meant to be public anyways ? 
 
 Well, as one might or might not have heard, another hot topic in tech is so-called quantum computers. They are computers based on physics principles that are predicted to outperform all of current computers. More importantly, when we eventually manage to construct one that is sufficiently powerful, an important part of the cryptography that we rely on today [^2] will be broken. For example, anyone in possession of a quantum computers would be able to forge a digital signature, and say steal all of your bitcoins by fake-signing a transaction that would transfer all of your funds to their account. This sounds dreadful. What are the researchers doing ? Why don't we yet have a solution ? 
 Well, first of all, we are working on it. The NIST, the US institute for the standardization of technologies launched in 2016 a call for proposals for so-called *post-quantum cryptography*, i.e. cryptography that would resist to quantum computers, in a effort to find a suitable replacement for our current standards. This standardization process has now entered its third round, and a standard is expected in the upcoming years. 
