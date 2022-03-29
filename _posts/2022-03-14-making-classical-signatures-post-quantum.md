@@ -5,7 +5,7 @@ title:  Making Classical Signatures Post-Quantum - The Blog Post
 
 This post is still **under construction**. Furthermore, it is aimed at a general audience. If you want to hear about the technical details, go see the associated [project](https://lauranemarco.github.io/projects/1_project/). Any feedback is welcome. 
 
-Co-authors : [Abdullah Talayhan](https://www.abdullahtalayhan.com) and Pr.Serge Vaudenay. 
+Paper co-authors : [Abdullah Talayhan](https://www.abdullahtalayhan.com) and Pr.Serge Vaudenay. 
 
 ###  Bitcoins, quantum computers and digital signatures
 
