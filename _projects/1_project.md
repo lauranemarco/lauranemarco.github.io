@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Classical Signatures Post-Quantum 
+title: A Practical Approach to Making Classical Signatures Post-Quantum 
 description: Semester Project Fall 2021
 ---
 
@@ -15,13 +15,13 @@ We had several goals :
 * Proving the security of the P2PKH transform using these security notions.
 * Giving a similar transform that hides the public key for the threshold setting. 
 
-We checked the 1st box : The classical security is captured by the well-known notion of *existential unforgeability under chosen-message attack* (EUF-CMA). We define a new notion of *zero-time quantum unforgeability* (0-QEUF) for both the one-signer and threshold setting, that captures the fact that the key-pairs are used only once. 
+We achieved the first goal. The classical security is captured by the well-known notion of *existential unforgeability under chosen-message attack* (EUF-CMA). The quantum security is captured by the notion of *existential forgery under key-only attack* by considering a quantum adevrsary for both the one-signer and threshold setting. This notion of security is enough in the setting where key-pairs are used only once. 
 
-We also checked the 2nd box, with a catch: P2PKH EUF-CMA security can't be proven under 2nd pre-image resistance of the hash function, but requires the stronger notion of *collision resistance*... 
+We checked the 2nd box, with a catch: P2PKH EUF-CMA security can't be proven under 2nd pre-image resistance of the hash function, but requires the stronger notion of *collision resistance*... 
 
-This led us to check the 3rd box, in a slightly different way. Indeed, instead of extending the P2PKH transform to a threshold setting, we provide a new transform, based on uniform random masking, whose security only requires 2nd pre-image resistance for the hash function used. We also give an extension this transform to the threshold setting in two possible ways. The 1st one requires only a standard multi-party computation protocol for key generation without any multi-party hash function evaluation (which is usually a huge performance bottleneck), at the cost of an increase in public-key and signature size that is linear in the number of participants. The 2nd one provides a transform with constant public-key and signature size, but does require one multi-party hash function evaluation. 
+This leds us to the 3rd point. Instead of extending the P2PKH transform to a threshold setting, we provide a new transform, based on uniform random masking, whose security only requires 2nd pre-image resistance for the hash function used. We also give an extension this transform to the threshold setting in two possible ways. The 1st one requires only a standard multi-party computation protocol for key generation without any multi-party hash function evaluation (which is usually a huge performance bottleneck), at the cost of an increase in public-key and signature size that is linear in the number of participants. The 2nd one provides a transform with constant public-key and signature size, but does require one multi-party hash function evaluation. 
 
-Additionally we checked another box (that wasn't even present in the beginning) by constructing and proving the security of a delayed signature scheme that enables practical usage of our signature primitives in a distributed ledger environment.
+Additionally we constructed and proved the security of a delayed signature scheme that enables practical usage of our signature primitives in a distributed ledger environment.
 
 You can find below the abstract of the paper. Contact me if you would like to read the full paper.
 
