@@ -25,7 +25,7 @@ In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal p
 
 
 ### Outreach 
-I care about outreach and believe in the importance of sharing my work with the younger generations to get them interested in the subject. 
+I care about outreach and believe in the importance of sharing my work with the younger generations to get them interested in my field. 
 I took part in the following outreach talks for EPFL : 
 - Thementag Gymnasium Thun - April 7th 2022 : A Journey through the history of cryptography - workshop of 1h30 adressed at high school students in their final years, with a large range of backgounds (scientific and non scientific).
 
