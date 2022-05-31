@@ -50,6 +50,7 @@ sass:
 
 include:
   - _pages
+  - talksreviews.md
 
 exclude:
   - README.md
