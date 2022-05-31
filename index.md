@@ -25,8 +25,6 @@ In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal p
 
 In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
-Feel free to contact me for any outreach opportunity ! 
-
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
 
