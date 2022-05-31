@@ -23,12 +23,7 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 
 In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts about my research and topics I am interested in. This is more aimed at a general audience. 
 
-
-### Outreach 
-I care about outreach and believe in the importance of sharing my work with the younger generations to get them interested in my field. 
-I took part in the following outreach talks for EPFL : 
-- Thementag Gymnasium Thun - April 7th 2022 : "A Journey through the history of cryptography" A workshop of 1h30 adressed at high school students in their final years, with a large range of backgounds (scientific and non scientific).
-
+In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
 Feel free to contact me for any outreach opportunity ! 
 
