@@ -20,3 +20,4 @@ In GCM mode, reusing a nonce directly allows for a universal forgery. Hence, it 
 In the context of public key cryptography, nonces are also essential for security. 
 In particular, DSA-type signatures' security, such as DSA and ECDSA signatures heavily relies on the fact that the nonce is never re-used. Indeed, using the same nonce for two signatures under the same key-pair allows a total break by recovering the secret key solving only a linear equation. This has led to several attacks in practice, e.g. on [Sony PS3](www.exophase.com/20540/hackers-describe-ps3-security-as-epic-fail-gain-unrestricted-access/ ) or on [Bitcoin wallets for Android devices](https://bitcoin.org/en/alert/2013-08-11-android).
 
+The reports is available [here] <a href="pdfs/noncemisusesign.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
