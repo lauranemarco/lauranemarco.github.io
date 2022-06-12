@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Review on Nonce-Misuse Resistant Signatures
-description: Semester Project Fall 2021
+description: Short Review Spring 2022
 ---
 
 Context
