@@ -10,7 +10,7 @@ Context
 At the beginining of my second semester at the EPFL IC doctoral school I wrote a small review on nonce-misuse resistant signatures. 
 Below is a short introduction to the problem. 
 
-###The implications of Nonce-Misuse
+### The implications of Nonce-Misuse
 In cryptography, “nonce" stands for “number only used once". It is therefore natural to wonder what happens when that one-time use property isn't respected. 
 It can happen as a result of a bad implementation or a bad randomness generator, when a counter eventually repeats, as a result of random  sampling, or as a deliberate ignorance of the protocol's specification. 
 We briefly describe the implications of nonce-misuse in the context of symmetric cryptography and then in that of public-key cryptography focusing on signatures. 
