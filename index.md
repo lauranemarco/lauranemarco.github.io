@@ -23,7 +23,6 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 
 In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
-In [Blog](https://lauranemarco.github.io/blog/), I plan to write more informal posts about my research and topics I am interested in. This is more aimed at a general audience. 
 
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
