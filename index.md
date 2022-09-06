@@ -8,7 +8,7 @@ published: true
 ---
 
 ## About me 
-I am a **1st year PhD student** at **EPFL**, Lausanne, Switzerland, currently under the EDIC fellowship. 
+I am a ** PhD student** at **EPFL**, Lausanne, Switzerland, currently under the EDIC fellowship. 
 I am interested in **post quantum cryptography** and **digital signatures**. 
 I am working in the LASEC lab under the supervision of [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/). 
 
@@ -23,6 +23,8 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 
 In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
+### Random 
+If you are reading Cryptography papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
 
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
