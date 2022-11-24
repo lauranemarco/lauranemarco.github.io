@@ -28,6 +28,8 @@ If you are reading cryptography-related papers and have questions about it, chec
 
 If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from Phd students on application material, have a look [here](https://epic-guide.github.io/ramp) (any CS related subject) or reach out via mail (cryptography related only). 
 
+I launched the **Women in IC initiative** of the PHD in Computer Science association of EPFL ([EPIC](http://epic.epfl.ch/)). [Here](https://calendar.google.com/calendar/u/5?cid=ZXBmbC5lcGljQGdtYWlsLmNvbQ) is our events calendar !
+
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
 
