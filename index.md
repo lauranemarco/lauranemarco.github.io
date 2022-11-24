@@ -24,11 +24,13 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
 ### Random 
-If you are reading cryptography-related papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
+I launched the **Women in IC initiative** of the PHD in Computer Science association of EPFL ([EPIC](http://epic.epfl.ch/)). [Here](https://calendar.google.com/calendar/u/5?cid=ZXBmbC5lcGljQGdtYWlsLmNvbQ) is our events calendar !
 
 If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from Phd students on application material, have a look [here](https://epic-guide.github.io/ramp) (any CS related subject) or reach out via mail (cryptography related only). 
 
-I launched the **Women in IC initiative** of the PHD in Computer Science association of EPFL ([EPIC](http://epic.epfl.ch/)). [Here](https://calendar.google.com/calendar/u/5?cid=ZXBmbC5lcGljQGdtYWlsLmNvbQ) is our events calendar !
+If you are reading cryptography-related papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
+
+
 
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
