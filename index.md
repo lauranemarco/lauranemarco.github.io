@@ -10,7 +10,7 @@ published: true
 ## About me 
 I am a **PhD student** at **EPFL**, Lausanne, Switzerland. I was an EDIC Fellow during my first year.
 I am interested in **post quantum cryptography** and **digital signatures**. 
-I am working in the LASEC lab under the supervision of [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/). 
+I am working in the LASEC lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). 
 
 ### Previously
 
