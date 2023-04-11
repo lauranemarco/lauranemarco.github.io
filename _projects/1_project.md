@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Practical Approach to Making Classical Signatures Post-Quantum 
+title: Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger
 description: Semester Project Fall 2021
 ---
 
@@ -23,10 +23,8 @@ This leds us to the 3rd point. Instead of extending the P2PKH transform to a thr
 
 Additionally we constructed and proved the security of a delayed signature scheme that enables practical usage of our signature primitives in a distributed ledger environment.
 
-You can find below the abstract of the paper. Contact me if you would like to read the full paper.
-
-
+This project gave rise to an (eprint)[https://eprint.iacr.org/2023/420]
 
 ## Abstract 
-The Bitcoin architecture heavily relies on the ECDSA signature scheme which is badly broken by quantum adversaries as the secret key can be computed from the public key in quantum polynomial time. To mitigate this attack, bitcoins can be paid to the hash of a public key (P2PKH). However, the first payment reveals the public key so all bitcoins attached to it must be spent at the same time (i.e. the remaining amount must be transferred to a new wallet). Some problems remain with this approach: the owners are vulnerable against *rushing adversaries* between the time the signature is made public and the time it is committed to the blockchain and there is no equivalent mechanism for threshold signatures. Besides, no formal analysis of P2PKH has been done.
-In this paper, we formalize the security notion of a *digital signature with a hidden public key*, we propose and prove the security of a generic transformation that converts a classical signature to a post-quantum one that can be used only once, similarly to P2PKH. We compare it with P2PKH. Namely, our proposal relies on pre-image resistance instead of collision resistance as for P2PKH, so allows shorter hashes.  Additionally, we propose the notion of a *delay signature* to solve the problem of the rushing adversary when used with a public ledger. We further extend our results to threshold signatures.
+The Bitcoin architecture heavily relies on the ECDSA signature scheme which is broken by quantum adversaries as the secret key can be computed from the public key in quantum polynomial time. To mitigate this attack, bitcoins can be paid to the hash of a public key (P2PKH). However, the first payment reveals the public key so all bitcoins attached to it must be spent at the same time (i.e. the remaining amount must be transferred to a new wallet). Some problems remain with this approach: the owners are vulnerable against rushing adversaries between the time the signature is made public and the time it is committed to the blockchain. Additionally, there is no equivalent mechanism for threshold signatures. Finally, no formal analysis of P2PKH has been done.
+In this paper, we formalize the security notion of a digital signature with a hidden public key and we propose and prove the security of a generic transformation that converts a classical signature to a post-quantum one that can be used only once. We compare it with P2PKH. Namely, our proposal relies on pre-image resistance instead of collision resistance as for P2PKH, so allows for shorter hashes. Additionally, we propose the notion of a delay signature to address the problem of the rushing adversary when used with a public ledger and discuss the advantages and disadvantages of our approach. We further extend our results to threshold signatures.
