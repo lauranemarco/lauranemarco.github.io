@@ -16,7 +16,7 @@ I took part in the following outreach talks for EPFL :
 - **Summer School MINT - Lebermatt Gymnasium** - June 30th 2022 : "A Journey through the history of cryptography, and more..." A workshop of 3h adressed at high school student taking part in the MINT summer school organised by EPFL. This is an extended version of the previous talk, that additionally gives an introduction to side channels attacks (smudge attack on phone password, power analysis on password checking and timing attack on RSA). 
 
 ## Reviews 
-I have been a reviewer/sub-reviewer for the following conferences/journals : 
-
-- ANTS 2022 (sub-reviewer)
+I have been a reviewer or sub-reviewer for the following conferences/journals : 
+- Eurocrypt 2023
+- ANTS 2022 
 - IET Information Security 2022
