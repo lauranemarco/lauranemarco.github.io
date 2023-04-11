@@ -23,7 +23,7 @@ This leds us to the 3rd point. Instead of extending the P2PKH transform to a thr
 
 Additionally we constructed and proved the security of a delayed signature scheme that enables practical usage of our signature primitives in a distributed ledger environment.
 
-This project gave rise to an [eprint](https://eprint.iacr.org/2023/420)
+This project gave rise to an [eprint](https://eprint.iacr.org/2023/420).
 
 ## Abstract 
 The Bitcoin architecture heavily relies on the ECDSA signature scheme which is broken by quantum adversaries as the secret key can be computed from the public key in quantum polynomial time. To mitigate this attack, bitcoins can be paid to the hash of a public key (P2PKH). However, the first payment reveals the public key so all bitcoins attached to it must be spent at the same time (i.e. the remaining amount must be transferred to a new wallet). Some problems remain with this approach: the owners are vulnerable against rushing adversaries between the time the signature is made public and the time it is committed to the blockchain. Additionally, there is no equivalent mechanism for threshold signatures. Finally, no formal analysis of P2PKH has been done.
