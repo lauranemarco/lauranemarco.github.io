@@ -24,7 +24,7 @@ In [Projects](https://lauranemarco.github.io/projects/), you can find my past an
 In [Talks & Reviews](https://lauranemarco.github.io/talksreviews), you can find a list of the academic and non-academic talks I have given, and the events I have been a reviewer for.
 
 ### Random 
-I launched the **Women in IC initiative** of the PHD in Computer Science association of EPFL ([EPIC](http://epic.epfl.ch/)). [Here](https://calendar.google.com/calendar/u/5?cid=ZXBmbC5lcGljQGdtYWlsLmNvbQ) is our events calendar !
+I launched the **Women in IC initiative** of the PhD in Computer Science association of EPFL ([EPIC](http://epic.epfl.ch/)). [Here](https://calendar.google.com/calendar/u/5?cid=ZXBmbC5lcGljQGdtYWlsLmNvbQ) is our events calendar !
 
 If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from Phd students on application material, have a look [here](https://epic-guide.github.io/ramp) (any CS related subject) or reach out via mail (cryptography related only). 
 
