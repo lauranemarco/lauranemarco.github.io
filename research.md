@@ -5,8 +5,5 @@ permalink: /research
 ---
 
 ## Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger
- **Laurane Marco**, Abdullah Talayhan, Serge VAUDENAY
- 
- **IWSEC 2023 **
- 
-[PREPRINT](https://eprint.iacr.org/2023/420.pdf)
+ **Laurane Marco**, Abdullah Talayhan, Serge VAUDENAY at **IWSEC 2023**
+ [Preprint](https://eprint.iacr.org/2023/420.pdf)
