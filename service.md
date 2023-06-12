@@ -16,8 +16,6 @@ I took part in the following outreach talks for EPFL :
 I am a member of the 2022-2023 EPIC Comittee (EPFL PhDs in Computer Science Association). 
 I launched the **Women in IC initiative** of [EPIC](http://epic.epfl.ch/).
 
-If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from Phd students on application material, have a look [here](https://epic-guide.github.io/ramp) (any CS related subject) or reach out via mail (cryptography related only). 
-
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
 - Eurocrypt 2023
