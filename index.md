@@ -24,7 +24,7 @@ I went on with another **Master in Mathematics and Computer Science** at the **U
 ### Random 
 If you are reading cryptography-related papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
 
-
+If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from Phd students on application material, have a look [here](https://epic-guide.github.io/ramp) (any CS related subject) or reach out via mail (cryptography related only). 
 
 ### Contact me 
 ✉️Email me at: laurane.marco@epfl.ch 
