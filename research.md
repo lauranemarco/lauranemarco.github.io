@@ -18,7 +18,7 @@ August 2023 - Yokohama, Japan
 **BIRS and ICMS Banff/Bristol Isogeny Workshop**
 August 2023 - Bristol, United Kingdom 
 
-**Eurocrypt 2022**
+**Eurocrypt 2023**
 April 2023 - Lyon, France
 
 **ISOCRYPT 2022**
