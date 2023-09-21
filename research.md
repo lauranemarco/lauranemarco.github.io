@@ -4,6 +4,11 @@ title: "Research "
 permalink: /research
 ---
 ## Publications
+
+**Exploring SIDH-based Signature Parameters** <br>
+Andrea Basso, Mingjie Chen, Tako Boris Fouotsa,Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024. 
+
+
 **Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger** <br>
  **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay - IWSEC 2023 :
  [Preprint](https://eprint.iacr.org/2023/420.pdf)
