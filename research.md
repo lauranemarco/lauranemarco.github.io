@@ -6,17 +6,25 @@ permalink: /research
 ## Publications
 
 **Exploring SIDH-based Signature Parameters** <br>
-Andrea Basso, Mingjie Chen, Tako Boris Fouotsa,Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024. 
+Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024. 
 
+**Malleable Commitments from Group Actions and Zero-Knowledge Proofs for Circuits based on Isogenies**<br>
+Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Chirstophe Petit. Accepted to INDOCRYPT 2023. 
 
 **Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger** <br>
  **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay - IWSEC 2023 :
  [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Talks 
+Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isogeny Days 2023 <br>
+*The security results presented for the IBE do not hold anymore.*
+
 Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - IWSEC 2023
 
 ## Events attended
+**Leuven Isogeny Days 2023**
+October 2023 - KU Leuven, Belgium
+
 **IWSEC 2023**
 August 2023 - Yokohama, Japan 
 
@@ -30,7 +38,7 @@ April 2023 - Lyon, France
 September 2022 - KU Leuven, Belgium
 
 **Isogeny-based Cryptography Workshop** 
-March 2022 - University of Birmingham 
+March 2022 - University of Birmingham, United Kingdom 
 
 **Eurocrypt 2021** 
 October 2021 - Zagreb, Coratia
