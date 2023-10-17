@@ -13,11 +13,12 @@ I took part in the following outreach talks for EPFL :
 - **Thementag Gymnasium Thun** - April 7th 2022 : "A Journey through the history of cryptography" A workshop of 1h30 adressed at high school students in their final years, with a large range of backgounds (scientific and non scientific). The workshop covers Caesar cipher, Vigenère cipher and RSA with some interactive exercises. 
 
 ## Societies
-I am a member of the 2022-2023 EPIC Comittee (EPFL PhDs in Computer Science Association). 
-I launched the **Women in IC initiative** of [EPIC](http://epic.epfl.ch/).
+I am a member of the 2022-2023 [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association). 
+I launched the **Women in IC initiative** for EPIC, which is now an independent association of which I am the president.
 
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
+- Asiacrypt 2023
 - Eurocrypt 2023
 - ANTS 2022 
 - IET Information Security 2022
