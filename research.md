@@ -17,7 +17,7 @@ Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Chirstophe Petit. Accept
 
 ## Talks 
 Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isogeny Days 2023 <br>
-*The security results presented for the IBE do not hold anymore.*
+[Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *The security results presented for the IBE do not hold anymore.*
 
 Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - IWSEC 2023
 
