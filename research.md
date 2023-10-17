@@ -34,7 +34,7 @@ August 2023 - Bristol, United Kingdom
 **Eurocrypt 2023**
 April 2023 - Lyon, France
 
-**ISOCRYPT 2022**
+**Leuven Isogeny Days 2022**
 September 2022 - KU Leuven, Belgium
 
 **Isogeny-based Cryptography Workshop** 
