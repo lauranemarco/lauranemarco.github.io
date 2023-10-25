@@ -24,7 +24,7 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isog
 Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - IWSEC 2023
 
 ## Events attended
-**Leuven Isogeny Days 2023**
+**[Leuven Isogeny Days 2023](https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid4/)**
 October 2023 - KU Leuven, Belgium
 
 **IWSEC 2023**
@@ -36,10 +36,10 @@ August 2023 - Bristol, United Kingdom
 **Eurocrypt 2023**
 April 2023 - Lyon, France
 
-**Leuven Isogeny Days 2022**
+**[Leuven Isogeny Days 2022](https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid3/)**
 September 2022 - KU Leuven, Belgium
 
-**Isogeny-based Cryptography Workshop** 
+**[Isogeny-based Cryptography Workshop](https://sites.google.com/view/isogeny-workshop-2022/)** 
 March 2022 - University of Birmingham, United Kingdom 
 
 **Eurocrypt 2021** 
