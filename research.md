@@ -16,7 +16,7 @@ Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Chirstophe Petit. Accept
  [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Talks 
-Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) Computer Science Seminar
+Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) Cybersecurity Seminar [Link](https://cybersecurity.ulb.ac.be/2023/10/18/making-classical-threshold-signatures-post-quantum-for-single-use-on-a-public-ledger/)
 
 Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isogeny Days 2023 <br>
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
