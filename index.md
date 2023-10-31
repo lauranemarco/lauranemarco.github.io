@@ -22,7 +22,7 @@ I went on with another **Master in Mathematics and Computer Science** at the **U
 
 
 ### Random 
-I contribute in the organization of the **Women in Cryptography seminar**. Check it out [here](https://www.womenincryptography.com/seminar/).
+I contribute to the organization of the **Women in Cryptography seminar**. Check it out [here](https://www.womenincryptography.com/seminar/).
 
 If you are reading cryptography-related papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
 
