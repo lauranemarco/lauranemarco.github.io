@@ -9,7 +9,7 @@ permalink: /research
 Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024. 
 
 **Malleable Commitments from Group Actions and Zero-Knowledge Proofs for Circuits based on Isogenies**<br>
-Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Christophe Petit. Accepted to INDOCRYPT 2023. <br>
+Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Christophe Petit - INDOCRYPT 2023. <br>
  [Preprint](https://eprint.iacr.org/2023/1710.pdf)
 
 **Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger** <br>
