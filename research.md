@@ -6,7 +6,8 @@ permalink: /research
 ## Publications
 
 **Exploring SIDH-based Signature Parameters** <br>
-Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024. 
+Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024.<br>
+[Preprint](https://eprint.iacr.org/2023/1906.pdf)
 
 **Malleable Commitments from Group Actions and Zero-Knowledge Proofs for Circuits based on Isogenies**<br>
 Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Christophe Petit - INDOCRYPT 2023. <br>
