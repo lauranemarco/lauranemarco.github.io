@@ -29,6 +29,6 @@ If you are applying to a PhD in Computer Science at EPFL, and would like to get 
 If you are reading cryptography-related papers and have questions about it, check out [AskCrypto](https://askcryp.to), a great initiative for sharing knowledge about cryptography launched by my colleague [Abdullah Talayhan](https://www.abdullahtalayhan.com).
 
 ### Contact me 
-✉️Email me at: laurane.marco@epfl.ch 
+✉️Email me at: laurane[dot]marco[at]epfl[dot]ch 
 
 📍Visit me in INF239 on the EPFL campus.  
