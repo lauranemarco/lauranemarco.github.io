@@ -6,7 +6,7 @@ permalink: /research
 ## Publications
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
-Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. 
+Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
 [Preprint](https://eprint.iacr.org/2024/337.pdf)
 
 **Exploring SIDH-based Signature Parameters** <br>
