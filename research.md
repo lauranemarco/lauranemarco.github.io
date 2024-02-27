@@ -3,23 +3,23 @@ layout: page
 title: "Research "
 permalink: /research
 ---
-## Publications
+## Preprints and Publications
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
 [Preprint](https://eprint.iacr.org/2024/337.pdf)
 
 **Exploring SIDH-based Signature Parameters** <br>
-Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. Accepted to ACNS 2024.<br>
-[Preprint](https://eprint.iacr.org/2023/1906.pdf)
+Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. <br>
+ACNS 2024 - [Preprint](https://eprint.iacr.org/2023/1906.pdf)
 
 **Malleable Commitments from Group Actions and Zero-Knowledge Proofs for Circuits based on Isogenies**<br>
-Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Christophe Petit - INDOCRYPT 2023. <br>
- [Preprint](https://eprint.iacr.org/2023/1710.pdf)
+Mingjie Chen, Yi Fu Lai, Abel Laval, **Laurane Marco**, Christophe Petit. <br>
+INDOCRYPT 2023 - [Preprint](https://eprint.iacr.org/2023/1710.pdf)
 
 **Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger** <br>
- **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay - IWSEC 2023. <br>
- [Preprint](https://eprint.iacr.org/2023/420.pdf)
+ **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
+IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Talks 
 Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) Cybersecurity Seminar [Link](https://cybersecurity.ulb.ac.be/2023/10/18/making-classical-threshold-signatures-post-quantum-for-single-use-on-a-public-ledger/)
