@@ -27,9 +27,10 @@ Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public 
 Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isogeny Days 2023 <br>
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
-Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - IWSEC 2023
-
 ## Events attended
+**ACNS 2024**
+March 2024 - Abu Dhabi, United Arab Emirates
+
 **[Leuven Isogeny Days 2023](https://www.esat.kuleuven.be/cosic/projects/isocrypt/lid4/)**
 October 2023 - KU Leuven, Belgium
 
