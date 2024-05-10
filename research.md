@@ -6,7 +6,7 @@ permalink: /research
 ## Publications
 
 **Non-Transferable Anonymous Tokens by Secret Binding** <br>
-F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay
+F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
 Accepted to CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
