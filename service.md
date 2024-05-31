@@ -14,7 +14,7 @@ I took part in the following outreach talks for EPFL :
 
 ## Societies
 I am a member of the [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association) in 2022-2023 and 2023-2024. <br>
-In September 2022, I launched the **Women+ in IC initiative** for EPIC, which is now an independent association of which I am the president. I have received the *IC Distinguished Service Award 2023* for this initiative. 
+In September 2022, I launched the [Women+ in IC initiative](https://wic-epfl.github.io) for EPIC, which is now an independent association of which I am the president. I have received the *IC Distinguished Service Award 2023* for this initiative. 
 
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
