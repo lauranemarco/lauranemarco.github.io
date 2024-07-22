@@ -10,8 +10,8 @@ published: true
 ## About me 
 I am a **PhD student** at **EPFL**, Lausanne, Switzerland since September 2021. I was an EDIC Fellow during my first year.
 I am interested in **post quantum cryptography** and **digital signatures**. 
-I am working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). 
-I am currently on a 6 months research visit to [Pr. Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) at the University of Auckland, New Zealand until mid-january 2025.
+I am working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). <br>
+I am currently on a 6 months research visit to [Pr. Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) at the University of Auckland, New Zealand until mid-january 2025, thanks to an EPFL DocMobility grant.
 
 ### Previously
 
