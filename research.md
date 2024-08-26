@@ -11,7 +11,7 @@ Accepted to CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
-Accepted to CRYPTO 2024 - [Preprint](https://eprint.iacr.org/2024/337.pdf)
+CRYPTO 2024 - [Preprint](https://eprint.iacr.org/2024/337.pdf)
 
 **Exploring SIDH-based Signature Parameters** <br>
 Andrea Basso, Mingjie Chen, Tako Boris Fouotsa, Péter Kutas, Abel Laval, **Laurane Marco**, Gustave Tchoffo Saah. <br>
@@ -34,6 +34,10 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isog
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
 ## Events attended
+
+**Crypto 2024**
+August 2024 - Santa Barbara, USA
+
 **Eurocrypt 2024**
 May 2024 - Zurich, Switzerland
 
