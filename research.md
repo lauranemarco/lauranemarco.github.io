@@ -7,7 +7,7 @@ permalink: /research
 
 **Non-Transferable Anonymous Tokens by Secret Binding** <br>
 F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
-Accepted to CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
+CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
@@ -26,6 +26,8 @@ INDOCRYPT 2023 - [Preprint](https://eprint.iacr.org/2023/1710.pdf)
 IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Talks 
+On the Hardness of the Tensor Isomorphism Problem - Univeristy of Auckland's Algebra & Combinatorics Seminar
+
 Solving the Tensor Isomorphism Problem on special orbits with low rank points - Crossfyre 2024 [Link](https://sites.google.com/view/crossfyre24/program?authuser=0)
 
 Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) Cybersecurity Seminar [Link](https://cybersecurity.ulb.ac.be/2023/10/18/making-classical-threshold-signatures-post-quantum-for-single-use-on-a-public-ledger/)
