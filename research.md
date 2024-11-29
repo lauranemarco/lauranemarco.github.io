@@ -26,16 +26,21 @@ INDOCRYPT 2023 - [Preprint](https://eprint.iacr.org/2023/1710.pdf)
 IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Talks 
+
+Modular Polynomials and Isogeny Volcanoes - [NZMASP 2024](https://nzmasp.org.nz) 
 On the Hardness of the Tensor Isomorphism Problem - Univeristy of Auckland's Algebra & Combinatorics Seminar
 
-Solving the Tensor Isomorphism Problem on special orbits with low rank points - Crossfyre 2024 [Link](https://sites.google.com/view/crossfyre24/program?authuser=0)
+Solving the Tensor Isomorphism Problem on special orbits with low rank points - [Crossfyre 2024](https://sites.google.com/view/crossfyre24/program?authuser=0)
 
-Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) Cybersecurity Seminar [Link](https://cybersecurity.ulb.ac.be/2023/10/18/making-classical-threshold-signatures-post-quantum-for-single-use-on-a-public-ledger/)
+Making Classical (Threshold) Signatures Post-Quantum for Single Use on a Public Ledger - Université Libre de Bruxelles (ULB) [Cybersecurity Seminar] (https://cybersecurity.ulb.ac.be/2023/10/18/making-classical-threshold-signatures-post-quantum-for-single-use-on-a-public-ledger/)
 
 Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isogeny Days 2023 <br>
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
 ## Events attended
+
+**[NZMASP 2024](https://nzmasp.org.nz)**
+November 2024 - Christchurch, New Zealand
 
 **Crypto 2024**
 August 2024 - Santa Barbara, USA
