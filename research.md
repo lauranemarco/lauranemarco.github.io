@@ -29,7 +29,7 @@ IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 Modular Polynomials and Isogeny Volcanoes - [NZMASP 2024](https://nzmasp.org.nz) 
 
-On the Hardness of the Tensor Isomorphism Problem - Univeristy of Auckland's Algebra & Combinatorics Seminar
+On the Hardness of the Tensor Isomorphism Problem - University of Auckland's Algebra & Combinatorics Seminar
 
 Solving the Tensor Isomorphism Problem on special orbits with low rank points - [Crossfyre 2024](https://sites.google.com/view/crossfyre24/program?authuser=0)
 
