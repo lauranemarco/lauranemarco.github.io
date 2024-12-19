@@ -25,7 +25,7 @@ INDOCRYPT 2023 - [Preprint](https://eprint.iacr.org/2023/1710.pdf)
  **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
 IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
-## Talks 
+## Selected Talks 
 
 Modular Polynomials and Isogeny Volcanoes - [NZMASP 2024](https://nzmasp.org.nz) 
 
@@ -39,6 +39,11 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isog
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
 ## Events attended
+**[Wokshop on Mathematical Cryptography](https://sites.google.com/vt.edu/mathematical-cryptography-work/)**
+December 2024 - Auckland, New zealand
+
+**[Joint Meeting of the NZMS, AustMS and AMS 2024](https://ms-meet-2024.blogs.auckland.ac.nz)**
+December 2024 - Auckland, New zealand
 
 **[NZMASP 2024](https://nzmasp.org.nz)**
 November 2024 - Christchurch, New Zealand
