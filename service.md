@@ -3,12 +3,14 @@ layout: page
 title: "Service "
 permalink: /service
 ---
-## Societies
+## Societies & Events
 I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024 and Crypto 2024.<br>
 
 I am a member of the [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association) in 2022-2023 and 2023-2024. <br>
 
 In September 2022, I launched the [Women+ in IC initiative](https://wic-epfl.github.io) for EPIC, which is now an independent association of which I am the president for 2023-2024. I have received the *IC Distinguished Service Award 2023* for this initiative. 
+
+I was part of the Social Committee of the [2024 Joint Meeting of the NZMS, AustMS and AMS](https://ms-meet-2024.blogs.auckland.ac.nz) in Auckland, New Zealand. 
 
 ## Outreach
 I care about outreach and believe in the importance of sharing my work with the younger generations to get them interested in my field. 
