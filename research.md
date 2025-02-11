@@ -40,10 +40,10 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - Leuven Isog
 
 ## Events attended
 **[Wokshop on Mathematical Cryptography](https://sites.google.com/vt.edu/mathematical-cryptography-work/)**
-December 2024 - Auckland, New zealand
+December 2024 - Auckland, New Zealand
 
 **[Joint Meeting of the NZMS, AustMS and AMS 2024](https://ms-meet-2024.blogs.auckland.ac.nz)**
-December 2024 - Auckland, New zealand
+December 2024 - Auckland, New Zealand
 
 **[NZMASP 2024](https://nzmasp.org.nz)**
 November 2024 - Christchurch, New Zealand
