@@ -27,6 +27,8 @@ IWSEC 2023 - [Preprint](https://eprint.iacr.org/2023/420.pdf)
 
 ## Selected Talks 
 
+Computing Modular Polynomials modulo a Generic Prime - [The Isogeny Club](https://isogeny.club) [Slides](https://isogeny.club/season-6/6-2-laurane/slides.pdf)
+
 Modular Polynomials and Isogeny Volcanoes - [NZMASP 2024](https://nzmasp.org.nz) 
 
 On the Hardness of the Tensor Isomorphism Problem - University of Auckland's Algebra & Combinatorics Seminar
