@@ -4,9 +4,9 @@ title: "Service "
 permalink: /service
 ---
 ## Societies & Events
-I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024 and Crypto 2024.<br>
+I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024 and 2025 and Crypto 2024.<br>
 
-I am a member of the [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association) in 2022-2023 and 2023-2024. <br>
+I am a member of the [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association) in 2022-2023, 2023-2024, 2024-2025. <br>
 
 In September 2022, I launched the [Women+ in IC initiative](https://wic-epfl.github.io) for EPIC, which is now an independent association of which I am the president for 2023-2024. I have received the *IC Distinguished Service Award 2023* for this initiative. 
 
@@ -22,6 +22,7 @@ I took part in the following outreach talks for EPFL :
 
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
+- SAC 2025
 - PKC 2025
 - Eurocrypt 2025
 - ACNS 2024
