@@ -41,6 +41,9 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - [Leuven Iso
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
 ## Events attended
+**Eurocrypt 2025**
+May 2025 - Madrid, Spain
+
 **[Swissogeny Day #2](https://swissogeny.github.io)** March 20th 2025, IBM Research Zurich, Switzerland
 
 **[Wokshop on Mathematical Cryptography](https://sites.google.com/vt.edu/mathematical-cryptography-work/)**
