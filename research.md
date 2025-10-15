@@ -5,6 +5,10 @@ permalink: /research
 ---
 ## Publications
 
+**On the security of two blind signatures from code equivalence problems**
+Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
+In submission [Preprint](https://eprint.iacr.org/2025/1883.pdf)
+
 **Non-Transferable Anonymous Tokens by Secret Binding** <br>
 F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
 CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
