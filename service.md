@@ -22,6 +22,7 @@ I took part in the following outreach talks for EPFL :
 
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
+- Asiacrypt 2025
 - SAC 2025
 - PKC 2025
 - Eurocrypt 2025
