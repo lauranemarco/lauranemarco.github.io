@@ -4,7 +4,7 @@ title: "Research "
 permalink: /research
 ---
 ## Publications
-
+AUthors listed in aplhabetical order as per the [AMS Culture Statement](https://www.ams.org/learning-careers/leaders/CultureStatement04.pdf)
 **On the security of two blind signatures from code equivalence problems**
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
 In submission [Preprint](https://eprint.iacr.org/2025/1883.pdf)
