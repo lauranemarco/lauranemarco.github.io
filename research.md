@@ -9,7 +9,7 @@ Authors listed in aplhabetical order as per the [AMS Culture Statement](https://
 
 **On the security of two blind signatures from code equivalence problems**
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
-IACR Communications in Cryptology, Volume 2, Issue 4. [Preprint](https://eprint.iacr.org/2025/1883.pdf)
+IACR Communications in Cryptology, Volume 2, Issue 4 (2026) - [Preprint](https://eprint.iacr.org/2025/1883.pdf)
 
 **Non-Transferable Anonymous Tokens by Secret Binding** <br>
 F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
