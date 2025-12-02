@@ -7,7 +7,7 @@ permalink: /research
 Authors listed in aplhabetical order as per the [AMS Culture Statement](https://www.ams.org/learning-careers/leaders/CultureStatement04.pdf).
 
 
-**On the security of two blind signatures from code equivalence problems**
+**On the security of two blind signatures from code equivalence problems**<br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
 IACR Communications in Cryptology, Volume 2, Issue 4 (2026) - [Preprint](https://eprint.iacr.org/2025/1883.pdf)
 
