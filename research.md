@@ -4,7 +4,7 @@ title: "Research "
 permalink: /research
 ---
 ## Publications
-Authors listed in aplhabetical order as per the [AMS Culture Statement](https://www.ams.org/learning-careers/leaders/CultureStatement04.pdf).
+Authors listed in alphabetical order as per the [AMS Culture Statement](https://www.ams.org/learning-careers/leaders/CultureStatement04.pdf).
 
 
 **On the security of two blind signatures from code equivalence problems**<br>
