@@ -12,8 +12,9 @@ I am a **PhD student** at **EPFL**, Lausanne, Switzerland since September 2021. 
 I am interested in **post quantum cryptography** and **digital signatures**. 
 I am working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). <br>
 
-### Recent updates
-- I just started, on June 1st 2025 an internship at [Nokia Bell Labs](https://www.nokia.com/bell-labs/) in Stuttgart, Germany until August, 31st 2025. 
+### Updates
+- I received the Excellent Teaching Assistant Award 2025 from the IC Faculty.
+- I did an internship at [Nokia Bell Labs](https://www.nokia.com/bell-labs/) in Stuttgart, Germany from June to August 2025. 
 - I did a 6 months research visit to [Pr. Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) at the University of Auckland, New Zealand from mid-July 2024 to mid-January 2025, thanks to an EPFL DocMobility grant.
 
 ### Previously
