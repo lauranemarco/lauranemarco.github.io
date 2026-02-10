@@ -5,13 +5,13 @@ permalink: /service
 ---
 ## Associative activities
 
-**Women+ in IC**
+**Women+ in IC:**
 In September 2022, I founded the [Women+ in IC initiative](https://wic-epfl.github.io). It is now an independent association, which I presided in 2023-2024, and for which I am now a commitee member. I have received the *IC Distinguished Service Award 2023* for this initiative. 
 
-**Women in Cryptography**
+**Women in Cryptography:**
 I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024, Eurocrypt 2025 and Crypto 2024.<br>
 
-**EPIC (EPFL PhDs of IC)**
+**EPIC (EPFL PhDs of IC):**
 I have been a member of the [EPIC](http://epic.epfl.ch/) comittee since 2022, where I contribute to the organisation of social events for the dotoral students of the IC faculty. <br>
 
 I was also part of the Social Committee of the [2024 Joint Meeting of the NZMS, AustMS and AMS](https://ms-meet-2024.blogs.auckland.ac.nz) in Auckland, New Zealand. 
