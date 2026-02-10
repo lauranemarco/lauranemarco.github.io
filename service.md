@@ -3,14 +3,18 @@ layout: page
 title: "Service "
 permalink: /service
 ---
-## Societies & Events
-I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024 and 2025 and Crypto 2024.<br>
+## Associative activities
 
-I am a member of the [EPIC](http://epic.epfl.ch/) Comittee (EPFL PhDs in Computer Science Association) in 2022-2023, 2023-2024, 2024-2025. <br>
+**Women+ in IC**
+In September 2022, I founded the [Women+ in IC initiative](https://wic-epfl.github.io). It is now an independent association, which I presided in 2023-2024, and for which I am now a commitee member. I have received the *IC Distinguished Service Award 2023* for this initiative. 
 
-In September 2022, I launched the [Women+ in IC initiative](https://wic-epfl.github.io) for EPIC, which is now an independent association of which I am the president for 2023-2024. I have received the *IC Distinguished Service Award 2023* for this initiative. 
+**Women in Cryptography**
+I contribute to the organization of the [Women in Cryptography](https://www.womenincryptography.com) (WinC) community, notably through the organization of the [WinC Seminars](https://www.womenincryptography.com/seminar/) as well as the organization of [WinC workshops](https://www.womenincryptography.com/workshop/) at Eurocrypt 2024, Eurocrypt 2025 and Crypto 2024.<br>
 
-I was part of the Social Committee of the [2024 Joint Meeting of the NZMS, AustMS and AMS](https://ms-meet-2024.blogs.auckland.ac.nz) in Auckland, New Zealand. 
+**EPIC (EPFL PhDs of IC)**
+I have been a member of the [EPIC](http://epic.epfl.ch/) comittee since 2022, where I contribute to the organisation of social events for the dotoral students of the IC faculty. <br>
+
+I was also part of the Social Committee of the [2024 Joint Meeting of the NZMS, AustMS and AMS](https://ms-meet-2024.blogs.auckland.ac.nz) in Auckland, New Zealand. 
 
 ## Outreach
 I care about outreach and believe in the importance of sharing my work with the younger generations to get them interested in my field. 
@@ -22,6 +26,7 @@ I took part in the following outreach talks for EPFL :
 
 ## Reviewing
 I have been a reviewer or sub-reviewer for the following conferences/journals : 
+- PKC 2026
 - Asiacrypt 2025
 - SAC 2025
 - PKC 2025
