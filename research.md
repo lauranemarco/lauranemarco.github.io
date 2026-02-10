@@ -13,7 +13,7 @@ IACR Communications in Cryptology, Volume 2, Issue 4 (2026) - [Preprint](https:/
 
 **Non-Transferable Anonymous Tokens by Secret Binding** <br>
 F.Betül Durak, **Laurane Marco**, Abdullah Talayhan, Serge Vaudenay. <br>
-CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
+ACM CCS 2024 - [Preprint](https://eprint.iacr.org/2024/711)
 
 **Solving the Tensor Isomorphism Problem for special orbits with low rank points: Cryptanalysis and repair of an Asiacrypt 2023 commitment scheme** <br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
@@ -47,6 +47,9 @@ Towards Identity Based Encryption from M-SIDH and the SIDH Attacks - [Leuven Iso
 [Slides](https://www.esat.kuleuven.be/cosic/projects/isocrypt/wp-content/uploads/sites/4/2023/10/lid4-marco.pdf) - *Note: The security results presented for the IBE do not hold anymore.*
 
 ## Events attended
+
+**[IAS Winter School on Machine Learning & Cryptography](https://ai4i.it/ias-winter-school-2026/)**
+February 2-5 2026 - Torino, Italia
 
 **[Swiss Crypto Day 2025](https://swisscryptoday.github.io/2025-10/)**
 October 31st 2025 - Lausanne, Switzerland
