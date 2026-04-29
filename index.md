@@ -31,6 +31,5 @@ If you are applying to a PhD in Computer Science at EPFL, and would like to get 
 
 
 ### Contact me 
-✉️Email me at: laurane[dot]marco[at]epfl[dot]ch 
+✉️My epfl email address is no longer in use.  
 
-📍Visit me in INF239 on the EPFL campus.  
