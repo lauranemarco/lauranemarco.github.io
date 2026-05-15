@@ -9,7 +9,7 @@ published: true
 
 ## About me 
 I am a **PhD graduate** from **EPFL**, Lausanne, Switzerland (September 2021-May 2026). I was an EDIC Fellow during my first year.
-My thesis is called "Post-quantum Cryptography beyond Encryption: Design and Cryptanalysis" is available [here](https://infoscience.epfl.ch/server/api/core/bitstreams/1e6961a9-5d5c-4fbe-ab2e-dbe69161bd5d/content). 
+My thesis "Post-quantum Cryptography beyond Encryption: Design and Cryptanalysis" is available [here](https://infoscience.epfl.ch/server/api/core/bitstreams/1e6961a9-5d5c-4fbe-ab2e-dbe69161bd5d/content). 
 I was working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). <br>
 
 ### Updates
