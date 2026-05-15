@@ -27,10 +27,6 @@ I then obtained a **MASt in Pure Mathematics** at the **University of Cambridge*
 I went on with another **Master in Mathematics and Computer Science** at the **University of Geneva** (2020-2021), with a focus on cryptography and security.
 
 
-#### Random 
-If you are applying to a PhD in Computer Science at EPFL, and would like to get feedback from PhD students on application material, check out our **RAMP program** [here](https://epic-guide.github.io/ramp) for which I am a mentor. 
-
-
 ### Contact me 
 ✉️My epfl email address is no longer in use.  
 
