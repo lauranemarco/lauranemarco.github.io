@@ -8,11 +8,12 @@ published: true
 ---
 
 ## About me 
-I am a **PhD student** at **EPFL**, Lausanne, Switzerland since September 2021. I was an EDIC Fellow during my first year.
-I am interested in **post quantum cryptography** and **digital signatures**. 
-I am working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). <br>
+I am a **PhD graduate** from **EPFL**, Lausanne, Switzerland (September 2021-May 2026). I was an EDIC Fellow during my first year.
+My thesis is called "Post-quantum Cryptography beyond Encryption: Design and Cryptanalysis" is available [here](https://infoscience.epfl.ch/server/api/core/bitstreams/1e6961a9-5d5c-4fbe-ab2e-dbe69161bd5d/content). 
+I was working in the [LASEC](https://lasec.epfl.ch) lab supervised by [Pr. Serge Vaudenay](https://lasec.epfl.ch/people/vaudenay/) and [Pr. Christophe Petit](https://christophe.petit.web.ulb.be) (ULB). <br>
 
 ### Updates
+- I graduated on May 7th, 2026 and will be leaving academia. 
 - I received the Excellent Teaching Assistant Award 2025 from the IC Faculty.
 - I did an internship at [Nokia Bell Labs](https://www.nokia.com/bell-labs/) in Stuttgart, Germany from June to August 2025. 
 - I did a 6 months research visit to [Pr. Steven Galbraith](https://www.math.auckland.ac.nz/~sgal018/) at the University of Auckland, New Zealand from mid-July 2024 to mid-January 2025, thanks to an EPFL DocMobility grant.
