@@ -6,6 +6,9 @@ permalink: /research
 ## Publications
 Authors listed in alphabetical order as per the [AMS Culture Statement](https://www.ams.org/learning-careers/leaders/CultureStatement04.pdf).
 
+**Updatable Public-Key Encryption from FESTA** <br>
+Andrea Basso, Tako Boris Fouotsa, Fatna Kouider, Péter Kutas, Luciano Maino, **Laurane Marco** <br>
+In submission - [Preprint](https://eprint.iacr.org/2026/1014) 
 
 **On the security of two blind signatures from code equivalence problems**<br>
 Valerie Gilchrist, **Laurane Marco**, Christophe Petit, Gang Tang. <br>
